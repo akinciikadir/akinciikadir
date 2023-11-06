@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.acunetix.com/wp_content/uploads/2021/05/ACX-Business-oriented-cybersecurity-non-technical-SEO-posts-1000x525-1.png)
 <h1 align="center">Hi 👋, I'm Kadir Akıncı</h1>
-<h3 align="center">A passionate Web devoloper & cyber security from Türkiye</h3>
+<h3 align="center">A passionate Web development & cyber security from Türkiye</h3>
 
 - 📫 How to reach me **akinciikadir08@gmail.com**
 
